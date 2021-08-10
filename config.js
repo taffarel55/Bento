@@ -11,22 +11,22 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Maurício',
   imageBackground: false,
   openInNewTab: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Bom dia!',
+  greetingAfternoon: 'Boa tarde,',
+  greetingEvening: 'Boa noite,',
+  greetingNight: 'Vá dormir!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: '1ca95b56825acca80465b075f7fc3dfe',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: '-12.694650',
+  weatherLongitude: '-38.323349',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
@@ -45,13 +45,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/',
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Trello',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://trello.com/b/I0P7nWQz/corres',
     },
     {
       id: '4',
@@ -61,15 +61,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Reddit',
-      icon: 'bookmark',
-      link: 'https://reddit.com',
+      name: 'UFBA',
+      icon: 'book',
+      link: 'https://ava.ufba.br/',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
